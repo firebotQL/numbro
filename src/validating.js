@@ -140,6 +140,7 @@ const validFormat = {
     },
     optionalMantissa: "boolean",
     trimMantissa: "boolean",
+    roundingFunction: "function",
     optionalCharacteristic: "boolean",
     thousandSeparated: "boolean",
     spaceSeparated: "boolean",
